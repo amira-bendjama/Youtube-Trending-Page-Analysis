@@ -10,3 +10,23 @@ data/US_youtube_trending_data.csv
 .DS_Store
 >>>>>>> a0cbe254f7c6bfd778e5bf8016cdfff7144ff84c
 data/Youtube-Trending-Page-Analysis/
+data/BR_category_id.json
+data/BR_youtube_trending_data.csv
+data/CA_youtube_trending_data.csv
+data/FR_category_id.json
+data/CA_category_id.json
+data/DE_youtube_trending_data.csv
+data/GB_youtube_trending_data.csv
+data/DE_category_id.json
+data/FR_youtube_trending_data.csv
+data/GB_category_id.json
+data/IN_category_id.json
+data/IN_youtube_trending_data.csv
+data/JP_category_id.json
+data/JP_youtube_trending_data.csv
+data/KR_category_id.json
+data/KR_youtube_trending_data.csv
+data/MX_category_id.json
+data/MX_youtube_trending_data.csv
+data/RU_category_id.json
+data/RU_youtube_trending_data.csv
