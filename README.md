@@ -1,4 +1,5 @@
 # Youtube Trending Page Analysis 
+![Screenshot|320x271](https://wallpapercave.com/dwp1x/wp2212251.png)
 
 ## I. Overview
 This analysis project examines Youtube trendings videos in the United States. The dataset used for this analysis was collected from Kaggle and comprises over 180,000 observations of several months of data on daily trending YouTube videos, with up to 200 listed trending videos per day. The dataset includes the video title, channel title, publish time, tags, views, likes and dislikes, description, and comment count, category.
